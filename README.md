@@ -151,10 +151,7 @@ This project uses the following third-party libraries:
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Contact
-
 For any questions or issues, feel free to reach out.
-
 ---
-
 Feel free to customize this README to better fit your project's specific details and requirements.
 ```
