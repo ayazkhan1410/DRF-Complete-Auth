@@ -15,7 +15,6 @@ This project is a complete implementation of an authentication system using Djan
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ayazkhan1410/DRF-Complete-Auth.git
-   cd your-repo-name
    ```
 
 2. **Create a virtual environment:**
